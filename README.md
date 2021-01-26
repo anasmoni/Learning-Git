@@ -15,3 +15,7 @@ https://phoenixnap.com/kb/git-commands-cheat-sheet
 
 https://youtu.be/SWYqp7iY_Tc
 
+https://youtu.be/RGOj5yH7evk
+
+git pull demo : https://youtu.be/rgbCcBNZcdQ
+
