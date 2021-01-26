@@ -1,8 +1,7 @@
 # Learning-Git
 Resources and links
 
-git documentation : https://git-scm.com/docs
-					https://docs.github.com/en/github/using-git
+git documentation : https://git-scm.com/docs and https://docs.github.com/en/github/using-git
 
 Top 20 git command with examples : https://dzone.com/articles/top-20-git-commands-with-examples
 
